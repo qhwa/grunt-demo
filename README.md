@@ -1,30 +1,5 @@
 # Grunt Demo 1
 
-The best jQuery plugin ever.
+这是一个Grunt示例项目，有关Grunt的简单介绍，请看这里：
 
-## Getting Started
-Download the [production version][min] or the [development version][max].
-
-[min]: https://raw.github.com/qhwa/grunt-demo-1/master/dist/grunt-demo-1.min.js
-[max]: https://raw.github.com/qhwa/grunt-demo-1/master/dist/grunt-demo-1.js
-
-In your web page:
-
-```html
-<script src="jquery.js"></script>
-<script src="dist/grunt-demo-1.min.js"></script>
-<script>
-jQuery(function($) {
-  $.awesome(); // "awesome"
-});
-</script>
-```
-
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
-
-## Release History
-_(Nothing yet)_
+[利用 Grunt （几乎）无痛地做前端开发 (一)](http://q.pnq.cc/archives/637)
